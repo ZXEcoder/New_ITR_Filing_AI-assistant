@@ -1,4 +1,4 @@
-# Chainlit
+# AI INCOME TAX ADVISOR
 
 ## Setup
 1. Clone the repo and navigate to the folder
@@ -35,8 +35,9 @@
 
 4. Run the chainlit app
     ```
-    uv run ingest.py
-    uv run chainlit run rag-chainlit-deepseek.py
+    uv run ingest2.py
+    streamlit run new.py
+    streamlit run calculator.py
     ```
 
     
