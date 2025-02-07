@@ -3,9 +3,8 @@
 ## Setup
 1. Clone the repo and navigate to the folder
     ```
-    git clone https://github.com/sudarshan-koirala/youtube-stuffs.git
-    cd youtube-stuffs
-    cd chainlit
+    git clone https://github.com/ZXEcoder/New_ITR_Filing_AI-assistant.git
+    
     ```
 
 2. Make sure you have `uv` installed,
