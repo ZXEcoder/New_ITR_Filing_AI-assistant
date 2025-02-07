@@ -31,7 +31,7 @@
     ```
     QDRANT_URL_LOCALHOST="xxxxx"
     ```
-    - If you need more info about Qdrant, refer to the [ths video](https://youtu.be/JSKZYgARffg?si=0Jf7jxfMYzrPR0w5) I created about Qdrant.
+  
 
 4. Run the chainlit app
     ```
