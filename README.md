@@ -9,7 +9,7 @@
 
 2. Make sure you have `uv` installed,
     - If not installed, here is the website [link](https://docs.astral.sh/uv/getting-started/installation/)
-    - Refer to my [Youtube video](https://youtu.be/13eNodHGRjw?si=zvw4fMn2wZ7DGd_V) if any assistance needed.
+      
 
 3. Install the necessary packages, it also creats the virtual environment for you.
     ```
